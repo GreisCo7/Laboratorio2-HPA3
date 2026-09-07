@@ -1,0 +1,15 @@
+C:\Users\greis\source\repos\Laboratorio2\bin\Debug\net10.0\Laboratorio2.exe
+C:\Users\greis\source\repos\Laboratorio2\bin\Debug\net10.0\Laboratorio2.deps.json
+C:\Users\greis\source\repos\Laboratorio2\bin\Debug\net10.0\Laboratorio2.runtimeconfig.json
+C:\Users\greis\source\repos\Laboratorio2\bin\Debug\net10.0\Laboratorio2.dll
+C:\Users\greis\source\repos\Laboratorio2\bin\Debug\net10.0\Laboratorio2.pdb
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.AssemblyInfoInputs.cache
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.AssemblyInfo.cs
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.dll
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\refint\Laboratorio2.dll
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.pdb
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laboratorio2.genruntimeconfig.cache
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\ref\Laboratorio2.dll
+C:\Users\greis\source\repos\Laboratorio2\obj\Debug\net10.0\Laborato.314B9490.Up2Date
